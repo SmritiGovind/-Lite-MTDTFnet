@@ -1,2 +1,2 @@
-# -Lite-MTDTFnet
+# Lite-MTDTFnet
 Code for  Lite-MTDTFnet
